@@ -1,4 +1,4 @@
-# seymore
+# Seymore
 I have, in the past, struggled greatly with watering my succulents.
 I turned a few years back to a zero_scape lawn [because I’m
 majoring in agriculture (STEAM)]. The real reason, though, was
